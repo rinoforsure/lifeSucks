@@ -4,47 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "25ffe5410375af24",
-        "type": "split",
+        "id": "f2fba2fa9a9b8e0a",
+        "type": "tabs",
         "children": [
           {
-            "id": "1cd7ee4987de01be",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "2698c96a00b387b3",
-                "type": "leaf",
-                "state": {
-                  "type": "empty",
-                  "state": {},
-                  "icon": "lucide-file",
-                  "title": "New tab"
-                }
-              }
-            ]
-          },
-          {
-            "id": "473341cc0ceafae4",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "c2b51409cea433af",
-                "type": "leaf",
-                "state": {
-                  "type": "webviewer",
-                  "state": {
-                    "url": "https://git-lfs.com/",
-                    "title": "Git Large File Storage | Git Large File Storage (LFS) replaces large files such as audio samples, videos, datasets, and graphics with text pointers inside Git, while storing the file contents on a remote server like GitHub.com or GitHub Enterprise.",
-                    "mode": "webview"
-                  },
-                  "icon": "globe-2",
-                  "title": "Git Large File Storage | Git Large File Storage (LFS) replaces large files such as audio samples, videos, datasets, and graphics with text pointers inside Git, while storing the file contents on a remote server like GitHub.com or GitHub Enterprise."
-                }
-              }
-            ]
+            "id": "6f974dfe86be3447",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
-        ],
-        "direction": "horizontal"
+        ]
       }
     ],
     "direction": "vertical"
@@ -194,9 +167,19 @@
               "icon": "lucide-archive",
               "title": "All properties"
             }
+          },
+          {
+            "id": "f5e08060dbea5762",
+            "type": "leaf",
+            "state": {
+              "type": "git-history-view",
+              "state": {},
+              "icon": "history",
+              "title": "History"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -219,7 +202,7 @@
       "vscode-editor:Create Code File": false
     }
   },
-  "active": "2698c96a00b387b3",
+  "active": "6f974dfe86be3447",
   "lastOpenFiles": [
     "Untitled 2.md",
     "Untitled 1.md",
