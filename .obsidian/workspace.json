@@ -8,98 +8,20 @@
         "type": "split",
         "children": [
           {
-            "id": "49dae62f60bd1994",
-            "type": "split",
+            "id": "1cd7ee4987de01be",
+            "type": "tabs",
             "children": [
               {
-                "id": "1cd7ee4987de01be",
-                "type": "tabs",
-                "children": [
-                  {
-                    "id": "2698c96a00b387b3",
-                    "type": "leaf",
-                    "state": {
-                      "type": "empty",
-                      "state": {},
-                      "icon": "lucide-file",
-                      "title": "New tab"
-                    }
-                  }
-                ]
-              },
-              {
-                "id": "cdab70ba4f762fb1",
-                "type": "split",
-                "children": [
-                  {
-                    "id": "79bb9b6848f6cc75",
-                    "type": "tabs",
-                    "children": [
-                      {
-                        "id": "01b35c24d3ccac02",
-                        "type": "leaf",
-                        "state": {
-                          "type": "empty",
-                          "state": {},
-                          "icon": "lucide-file",
-                          "title": "New tab"
-                        }
-                      }
-                    ]
-                  },
-                  {
-                    "id": "e060b51577abf5f4",
-                    "type": "tabs",
-                    "children": [
-                      {
-                        "id": "140eefc612aa7d4e",
-                        "type": "leaf",
-                        "pinned": true,
-                        "state": {
-                          "type": "terminal:terminal",
-                          "state": {
-                            "terminal:terminal": {
-                              "cwd": "/Users/nooyeaj/Desktop/lifeSucks",
-                              "focus": false,
-                              "profile": {
-                                "args": [],
-                                "executable": "/bin/zsh",
-                                "name": "",
-                                "platforms": {
-                                  "darwin": true
-                                },
-                                "pythonExecutable": "python3",
-                                "restoreHistory": true,
-                                "successExitCodes": [
-                                  "0",
-                                  "SIGINT",
-                                  "SIGTERM"
-                                ],
-                                "terminalOptions": {
-                                  "documentOverride": null
-                                },
-                                "type": "integrated",
-                                "useWin32Conhost": true
-                              },
-                              "serial": {
-                                "columns": 56,
-                                "data": "\u001b[32;1m➜  \u001b[36mlifeSucks\u001b[0m \u001b[34;1mgit:(\u001b[31mmain\u001b[34m) \u001b[33m✗\u001b[0m git \u001b[1D",
-                                "rows": 12
-                              }
-                            }
-                          },
-                          "pinned": true,
-                          "icon": "terminal",
-                          "title": "Terminal: nooyeaj@MBA-not-in-NPK:~/Desktop/lifeSucks"
-                        }
-                      }
-                    ]
-                  }
-                ],
-                "direction": "horizontal"
+                "id": "2698c96a00b387b3",
+                "type": "leaf",
+                "state": {
+                  "type": "empty",
+                  "state": {},
+                  "icon": "lucide-file",
+                  "title": "New tab"
+                }
               }
-            ],
-            "direction": "vertical"
+            ]
           },
           {
             "id": "473341cc0ceafae4",
@@ -274,7 +196,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -297,7 +219,7 @@
       "vscode-editor:Create Code File": false
     }
   },
-  "active": "140eefc612aa7d4e",
+  "active": "2698c96a00b387b3",
   "lastOpenFiles": [
     "Untitled 2.md",
     "Untitled 1.md",
