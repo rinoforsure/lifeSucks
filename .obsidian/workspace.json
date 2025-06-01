@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "f2fba2fa9a9b8e0a",
+        "id": "cc9c36eee3dbe59b",
         "type": "tabs",
         "children": [
           {
-            "id": "6f974dfe86be3447",
+            "id": "e2563312c2010139",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "split-diff-view",
+              "state": {
+                "aFile": ".gitignore",
+                "bFile": ".gitignore",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: .gitignore"
             }
           }
         ]
@@ -169,13 +173,13 @@
             }
           },
           {
-            "id": "f5e08060dbea5762",
+            "id": "22683407d5eb3377",
             "type": "leaf",
             "state": {
-              "type": "git-history-view",
+              "type": "git-view",
               "state": {},
-              "icon": "history",
-              "title": "History"
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
         ],
@@ -202,7 +206,7 @@
       "vscode-editor:Create Code File": false
     }
   },
-  "active": "6f974dfe86be3447",
+  "active": "e2563312c2010139",
   "lastOpenFiles": [
     "Untitled 2.md",
     "Untitled 1.md",
