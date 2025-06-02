@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "cc9c36eee3dbe59b",
+        "id": "fd4e3896d0fcc5a2",
         "type": "tabs",
         "children": [
           {
-            "id": "e2563312c2010139",
+            "id": "5625c123114452d6",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": ".gitignore",
-                "bFile": ".gitignore",
-                "aRef": ""
+                "file": "공부/역사/역사.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: .gitignore"
+              "icon": "lucide-file",
+              "title": "역사"
             }
           }
         ]
@@ -75,7 +75,7 @@
             }
           },
           {
-            "id": "8e2b2124a3dc4e4b",
+            "id": "78a8448f1204ad2e",
             "type": "leaf",
             "state": {
               "type": "vertical-tabs",
@@ -104,6 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "공부/과학/하이탑.pdf",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -113,7 +114,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for 하이탑"
             }
           },
           {
@@ -122,11 +123,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "공부/과학/하이탑.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from 하이탑"
             }
           },
           {
@@ -150,12 +152,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "공부/과학/하이탑.pdf",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of 하이탑"
             }
           },
           {
@@ -183,11 +186,12 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -203,27 +207,29 @@
       "obsidian-excalidraw-plugin:New drawing": false,
       "terminal:Open terminal": false,
       "obsidian-git:Open Git source control": false,
-      "vscode-editor:Create Code File": false
+      "code-files:Create Code File": false
     }
   },
-  "active": "e2563312c2010139",
+  "active": "90fa8aaf8d5317ee",
   "lastOpenFiles": [
-    "Untitled 2.md",
-    "Untitled 1.md",
-    "Untitled.md",
+    "공부/역사/voiceRecords/Recording 20250602115241.m4a",
+    "공부/역사/1. 전근대 한국사의 이해W.pdf",
+    "공부/역사/역사.md",
+    "공부/과학/근정쌤 과학.md",
+    "code/My Code File.ts",
+    "code/My Code File.py",
+    "code/hello.c",
     "공부/과학/하이탑.pdf",
+    "Untitled.md",
+    "공부/과학/Drawing 2025-06-01 15.32.34.excalidraw.md",
+    "Untitled 1.md",
+    "Untitled 2.md",
     "공부/과학",
     "하이탑.pdf",
     "공부/국어/Drawing 2025-05-31 15.32.44.excalidraw.md",
     "공부/국어/pdfs/비문학(문학, 생명).pdf",
     "공부/국어/voiceRecords/Recording 20250523134802.m4a",
     "공부/국어/pdfs/2025학년도 (청심고1 문법 수업 자료) 부교재.pdf",
-    "공부/국어/pdfs/관내분실(교사용).pdf",
-    "공부/역사/voiceRecords/Recording 20250521152440.m4a",
-    "code",
-    "공부",
-    "공부/역사/역사.md",
-    "공부/과학/근정쌤 과학.md",
     "공부/국어/문법.md",
     "공부/일본 문화/일본 문화 글쓰기.md",
     "Welcome.md",
